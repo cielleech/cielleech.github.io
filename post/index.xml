@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on rookie的小屋</title>
-    <link>http://cielleech.github.io/post/</link>
+    <link>https://cielleech.github.io/post/</link>
     <description>Recent content in Posts on rookie的小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Apr 2018 10:39:47 +0800</lastBuildDate>
     
-	<atom:link href="http://cielleech.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cielleech.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWK入门</title>
-      <link>http://cielleech.github.io/post/awk-study/</link>
+      <link>https://cielleech.github.io/post/awk-study/</link>
       <pubDate>Sun, 15 Apr 2018 10:39:47 +0800</pubDate>
       
-      <guid>http://cielleech.github.io/post/awk-study/</guid>
+      <guid>https://cielleech.github.io/post/awk-study/</guid>
       <description>简介 awk是一个强大的文本分析工具，相对于grep的查找，sed的编辑，awk在其对数据分析并生成报告时，显得尤为强大。简单来说awk就是把文件逐行的读入，以空格为默认分隔符将每行切片，切开的部分再进行各种分析处理。
 awk有3个不同版本: awk、nawk和gawk，未作特别说明，一般指gawk，gawk 是 AWK 的 GNU 版本。
 awk其名称得自于它的创始人 Alfred Aho 、Peter Weinberger 和 Brian Kernighan 姓氏的首个字母。实际上 AWK 的确拥有自己的语言： AWK 程序设计语言 ， 三位创建者已将它正式定义为“样式扫描和处理语言”。它允许您创建简短的程序，这些程序读取输入文件、为数据排序、处理数据、对输入执行计算以及生成报 表，还有无数其他的功能。
