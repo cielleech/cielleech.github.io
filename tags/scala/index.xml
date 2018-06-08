@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scala on rookie的小屋</title>
-    <link>http://cielleech.github.io/tags/scala/</link>
+    <link>https://cielleech.github.io/tags/scala/</link>
     <description>Recent content in Scala on rookie的小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 May 2018 14:37:19 +0800</lastBuildDate>
     
-	<atom:link href="http://cielleech.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cielleech.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scala class和case class的区别</title>
-      <link>http://cielleech.github.io/post/scala_difference_of_class_and_case_class/</link>
+      <link>https://cielleech.github.io/post/scala_difference_of_class_and_case_class/</link>
       <pubDate>Mon, 14 May 2018 14:37:19 +0800</pubDate>
       
-      <guid>http://cielleech.github.io/post/scala_difference_of_class_and_case_class/</guid>
+      <guid>https://cielleech.github.io/post/scala_difference_of_class_and_case_class/</guid>
       <description>在Scala中存在case class，它其实就是一个普通的class。但是它又和普通的class略有区别。
  初始化的时候可以不用new，当然你也可以加上，普通类一定需要加new； ``` scala&amp;gt; case class Iteblog(name:String) defined class Iteblog  scala&amp;gt; val iteblog = Iteblog(&amp;ldquo;iteblog_hadoop&amp;rdquo;) iteblog: Iteblog = Iteblog(iteblog_hadoop)
 scala&amp;gt; val iteblog = new Iteblog(&amp;ldquo;iteblog_hadoop&amp;rdquo;) iteblog: Iteblog = Iteblog(iteblog_hadoop)
